@@ -39,5 +39,8 @@ OOP used: abstraction, inheritance, polymorphism (`getBorrowLimit()`), encapsula
 
 - Data isn't saved between runs
 - No due dates or fines
+  
 
-- 
+<img width="959" height="500" alt="Screenshot 2026-10-17 231917" src="https://github.com/user-attachments/assets/2a83bb7e-57d6-4d6f-9fc6-d532cda49326" />
+
+ 
